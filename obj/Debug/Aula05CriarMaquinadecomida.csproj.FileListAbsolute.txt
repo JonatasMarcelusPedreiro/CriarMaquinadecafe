@@ -1,0 +1,11 @@
+C:\Users\jonatas.mpedreiro\source\repos\Aula05CriarMaquinadecomida\Aula05CriarMaquinadecomida\bin\Debug\Aula05CriarMaquinadecomida.exe.config
+C:\Users\jonatas.mpedreiro\source\repos\Aula05CriarMaquinadecomida\Aula05CriarMaquinadecomida\bin\Debug\Aula05CriarMaquinadecomida.exe
+C:\Users\jonatas.mpedreiro\source\repos\Aula05CriarMaquinadecomida\Aula05CriarMaquinadecomida\bin\Debug\Aula05CriarMaquinadecomida.pdb
+C:\Users\jonatas.mpedreiro\source\repos\Aula05CriarMaquinadecomida\Aula05CriarMaquinadecomida\obj\Debug\Aula05CriarMaquinadecomida.csproj.AssemblyReference.cache
+C:\Users\jonatas.mpedreiro\source\repos\Aula05CriarMaquinadecomida\Aula05CriarMaquinadecomida\obj\Debug\Aula05CriarMaquinadecomida.Form1.resources
+C:\Users\jonatas.mpedreiro\source\repos\Aula05CriarMaquinadecomida\Aula05CriarMaquinadecomida\obj\Debug\Aula05CriarMaquinadecomida.Properties.Resources.resources
+C:\Users\jonatas.mpedreiro\source\repos\Aula05CriarMaquinadecomida\Aula05CriarMaquinadecomida\obj\Debug\Aula05CriarMaquinadecomida.csproj.GenerateResource.cache
+C:\Users\jonatas.mpedreiro\source\repos\Aula05CriarMaquinadecomida\Aula05CriarMaquinadecomida\obj\Debug\Aula05CriarMaquinadecomida.csproj.CoreCompileInputs.cache
+C:\Users\jonatas.mpedreiro\source\repos\Aula05CriarMaquinadecomida\Aula05CriarMaquinadecomida\obj\Debug\Aula05CriarMaquinadecomida.exe
+C:\Users\jonatas.mpedreiro\source\repos\Aula05CriarMaquinadecomida\Aula05CriarMaquinadecomida\obj\Debug\Aula05CriarMaquinadecomida.pdb
+C:\Users\jonatas.mpedreiro\source\repos\Aula05CriarMaquinadecomida\Aula05CriarMaquinadecomida\obj\Debug\Aula05CriarMaquinadecomida.Form2.resources
